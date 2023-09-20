@@ -15,7 +15,7 @@ namespace RunGroupWebApp.Data
 
         public DbSet<Club> Clubs { get; set; }
 
-        public DbSet<Address> Addresss { get; set; }
+        public DbSet<Address> Addresses { get; set; }
 
 
     }
